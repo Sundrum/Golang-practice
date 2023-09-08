@@ -22,7 +22,7 @@ Contains four different tasks:
 - `releaseOxygen`: can produce only one oxygen atom and should block until that atom is consumed to form the water molecule before releasing another oxygen atom.
 - `releaseHydrogen`: can produce at most two hydrogen atoms and should block until these atoms are consumed to form the water molecule before releasing additional hydrogen atoms.
 
-  It also includes a Make() function which was pre-implemented by the teacher.
+  It also includes a `Make()` function which was pre-implemented by the teacher.
 
 * Wordcount
   This program counts the words in wordcount/mobydick.txt and returns every word and how many times they were used.
